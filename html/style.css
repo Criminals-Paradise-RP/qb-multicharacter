@@ -68,7 +68,7 @@
 .characters::-webkit-scrollbar-thumb {
     border-radius:20px;
     border:1px solid #000000;
-    background-color:#a90d2ca6;
+    background-color:#38B6FF;
 }
 .character {
     position: relative;
@@ -85,7 +85,7 @@
 }
 
 .character:hover {
-    background-color: #a90d2ca6;
+    background-color: #38B6FF;
     box-shadow: rgb(37 17 17 / 25%) 0px 30px 60px -12px inset, rgb(154 54 54 / 30%) 0px 18px 36px -18
 }
 
@@ -107,7 +107,7 @@
 }
 
 .char-selected {
-    background-color: #a90d2ca6;
+    background-color: #38B6FF;
     box-shadow: rgb(37 17 20 / 25%) 0px 30px 60px -12px inset, rgb(154 54 54 / 30%) 0px 18px 36px -18;
     transition: 250ms;
 }
