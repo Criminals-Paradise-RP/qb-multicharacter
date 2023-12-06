@@ -9,6 +9,7 @@ Config.CamCoords = vector4(392.06, -355.75, 48.02, 95.28)
 -- Config.CamCoords = vector4(-813.46, 178.95, 76.85, 174.5) -- Camera coordinates for character preview screen
 Config.EnableDeleteButton = true -- Define if the player can delete the character or not
 Config.customNationality = false -- Defines if Nationality input is custom of blocked to the list of Countries
+Config.SkipSelection = false -- Skip the spawn selection and spawns the player at the last location
 
 Config.DefaultNumberOfCharacters = 5 -- Define maximum amount of default characters (maximum 5 characters defined by default)
 Config.PlayersNumberOfCharacters = { -- Define maximum amount of player characters by rockstar license (you can find this license in your server's database in the player table)
